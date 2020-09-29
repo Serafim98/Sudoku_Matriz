@@ -1,4 +1,4 @@
-//Luis Serafim e Veríssimo
+//Luis Serafim
 
 #include <stdio.h>
 #include <stdlib.h>
